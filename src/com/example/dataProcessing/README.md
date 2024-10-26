@@ -44,8 +44,7 @@ Java 8의 Stream API 등장 이후 자바에서의 데이터 처리가 간편해
 - __하이브리드식 접근 방식__
   - DB: 기본 필터링, 정렬, 그룹핑
   - Java: 세부적인 비즈니스 로직 처리
-
-
-
-
-> 선행 지식 : 람다 표현식
+> 선행 지식 : 람다 표현식<br>
+> 참고 :
+> 1. https://burningfalls.github.io/java/what-is-stream-api/
+> 2. Claude
